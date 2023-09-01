@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shake</string>
+    <string name="random">Random</string>
+    <string name="xcoords">0</string>
+    <string name="ycoords">0</string>
+    <string name="zcoords">0</string>
+    <string name="gyro">Gyro</string>
+    <string name="acc">Acc</string>
+    <string name="button">Activate sensors</string>
+</resources>
