@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
         float oldRot = imgView.getRotation();
         imgView.setRotation(oldRot + newRot * 4);
         if(newRot > 1){
-            Toast.makeText(this,"", Toast.LENGTH_LONG).show();
+            Toast.makeText(this,String.valueOf(newRot), Toast.LENGTH_LONG).show();
         }
     }
 
